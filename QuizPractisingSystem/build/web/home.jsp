@@ -1,6 +1,6 @@
 <%-- 
-    Document   : home.jsp
-    Created on : May 17, 2022, 4:17:32 PM
+    Document   : home
+    Created on : May 17, 2022, 4:20:38 PM
     Author     : Admin
 --%>
 
@@ -13,6 +13,5 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        manhj non vl
     </body>
 </html>
